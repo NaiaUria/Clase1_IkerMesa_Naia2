@@ -1,4 +1,4 @@
 inicio=function(a,b,c)
 d=a+b+c;
-e=
+e=0;
 end
